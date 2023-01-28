@@ -201,7 +201,7 @@ Note Regarding the load balancing : each station has a simple logic circuit that
 
 Note regarding Train size : train are made with one locomotiv and 2 freight wagon. that mean 8k items per train.
 
-Note regarding inlet and oulet : in their most efficient configuration (24 stack inserter per train) thats 14'400 item / min so you empty/fill a train in a bit more than 30 sec and you should be able to saturate 8 lane of yellown belt
+Note regarding inlet and oulet : in their most efficient configuration (24 stack inserter per train) thats 14'400 item / min so you empty/fill a train in a bit more than 30 sec and you should be able to saturate 8 lane of yellown belt if you manage to have one train per minutes (66 sec) on the station
 
 #### Outlet/loading station
 ![image](https://user-images.githubusercontent.com/15912256/215125790-b34e8401-dbae-4362-81bc-ef3d3e498234.png)
