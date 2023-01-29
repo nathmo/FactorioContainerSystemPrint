@@ -128,8 +128,12 @@ click here to see the string :
 
 ## Nuclear Fuel Processor Container
 
+![image](https://user-images.githubusercontent.com/15912256/215359117-45921a59-96e7-4e74-a64a-7e563b1e7f80.png)
+
+
 click here to see the string : 
-###
+### [NuclearEnrichment_Container.txt](NuclearEnrichment_Container.txt)
+
 
 ## Nuclear Reactor Container
 
