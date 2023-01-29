@@ -94,7 +94,7 @@ click here to see the string :
 ### [GreenCircuitFactory.txt](GreenCircuitFactory.txt)
 
 ## Red Circuit Container
-![image](https://user-images.githubusercontent.com/15912256/215359663-a7993975-ceb2-4fce-806f-90ad64863909.png)
+![image](https://user-images.githubusercontent.com/15912256/215359742-1b68ed17-f9cd-45b5-9e3d-33fd2d7def2d.png)
 
 #### Input
 
@@ -114,9 +114,24 @@ click here to see the string :
 ### [RedCircuitFactory.txt](RedCircuitFactory.txt)
 
 ## Blue Circuit Container
+![image](https://user-images.githubusercontent.com/15912256/215359812-7e79ca2b-d167-4835-ab0a-8fbcac88a513.png)
+
+#### Input
+
+- iron
+- copper
+- plastic
+- 12 MW
+#### Output
+
+- blue circuit
+
+#### Max troughput
+
+- 360 item / minute
 
 click here to see the string : 
-###
+### [BlueCircuitFactory.txt](BlueCircuitFactory.txt)
 
 ## all science Container
 
