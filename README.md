@@ -74,14 +74,44 @@ click here to see the string :
 ###
 
 ## Green Circuit Container
+![image](https://user-images.githubusercontent.com/15912256/215359252-a2f9e262-c2e3-45dd-a99c-996967d971c5.png)
+
+#### Input
+
+- iron
+- copper
+- 24 MW
+
+#### Output
+
+- green circuit
+
+#### Max troughput
+
+- 5670 item / minute
 
 click here to see the string : 
-###
+### [GreenCircuitFactory.txt](GreenCircuitFactory.txt)
 
 ## Red Circuit Container
+![image](https://user-images.githubusercontent.com/15912256/215359663-a7993975-ceb2-4fce-806f-90ad64863909.png)
+
+#### Input
+
+- iron
+- copper
+- plastic
+- 11 MW
+#### Output
+
+- red circuit
+
+#### Max troughput
+
+- 360 item / minute
 
 click here to see the string : 
-###
+### [RedCircuitFactory.txt](RedCircuitFactory.txt)
 
 ## Blue Circuit Container
 
