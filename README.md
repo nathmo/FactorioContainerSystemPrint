@@ -225,10 +225,11 @@ click here to see the string :
 ### [rocketFactorySilo.txt](rocketFactorySilo.txt)
 
 ## Artillery Shell Factory Container
+![image](https://user-images.githubusercontent.com/15912256/215360147-41aa9669-f059-49c3-a35e-a6eff6afbdf8.png)
 
 
 click here to see the string : 
-### 
+### [ArtilleryShellFactory_Container.txt](ArtilleryShellFactory_Container.txt)
 
 ## Container empty template
 -6 Input or output
