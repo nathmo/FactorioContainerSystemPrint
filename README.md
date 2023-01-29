@@ -167,11 +167,12 @@ click here to see the string :
 
 ## Rocket factory and Silo Container
 
+![image](https://user-images.githubusercontent.com/15912256/215358751-c5d0bd1d-6f5d-4c42-b073-44b4a1d2434b.png)
+
 click here to see the string : 
-###
+### [rocketFactorySilo.txt](rocketFactorySilo.txt)
 
 ## Artillery Shell Factory Container
-
 
 
 click here to see the string : 
