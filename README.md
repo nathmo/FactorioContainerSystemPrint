@@ -139,9 +139,10 @@ click here to see the string :
 ###
 
 ## Plastic and explosive Refinery Container
+![image](https://user-images.githubusercontent.com/15912256/215360262-79242b1a-9379-42b0-a210-e4ba22212eeb.png)
 
 click here to see the string : 
-###
+### [PlasticAndExplosiveRefinery_Container.txt](PlasticAndExplosiveRefinery_Container.txt)
 
 ## Sulfuric Acid and Lubricant Refinery Container
 ![image](https://user-images.githubusercontent.com/15912256/215359983-c9a42364-7b1d-4179-8358-86285664510e.png)
