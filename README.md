@@ -104,8 +104,12 @@ click here to see the string :
 ###
 
 ## ammo factory Container
+![image](https://user-images.githubusercontent.com/15912256/215358494-30561b28-663b-4e6f-9cc7-bd136402bbf5.png)
+
+
+
 click here to see the string : 
-###
+### [ammoFactory_Container.txt](ammoFactory_Container.txt)
 
 ## Belt, Arm, PowerLine, miner and Assembler Factory Module
 
@@ -168,8 +172,10 @@ click here to see the string :
 
 ## Artillery Shell Factory Container
 
+
+
 click here to see the string : 
-###
+### 
 
 ## Container empty template
 -6 Input or output
