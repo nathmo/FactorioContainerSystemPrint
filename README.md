@@ -144,9 +144,12 @@ click here to see the string :
 ###
 
 ## Sulfuric Acid and Lubricant Refinery Container
+![image](https://user-images.githubusercontent.com/15912256/215359983-c9a42364-7b1d-4179-8358-86285664510e.png)
+
+be careful. it require an external pipeline for water and oil
 
 click here to see the string : 
-###
+### [SulfuricAcidAndGreaseRefinery_Container.txt](SulfuricAcidAndGreaseRefinery_Container.txt)
 
 ## ammo factory Container
 ![image](https://user-images.githubusercontent.com/15912256/215358494-30561b28-663b-4e6f-9cc7-bd136402bbf5.png)
