@@ -134,9 +134,10 @@ click here to see the string :
 ### [BlueCircuitFactory.txt](BlueCircuitFactory.txt)
 
 ## all science Container
+![image](https://user-images.githubusercontent.com/15912256/215360400-b85f045a-03c7-45d3-9cc5-4d175ad7039f.png)
 
 click here to see the string : 
-###
+### [AllScienceModule.txt](AllScienceModule.txt)
 
 ## Plastic and explosive Refinery Container
 ![image](https://user-images.githubusercontent.com/15912256/215360262-79242b1a-9379-42b0-a210-e4ba22212eeb.png)
