@@ -139,8 +139,11 @@ click here to see the string :
 
 ## Atomic Bomb Factory Container
 
+![image](https://user-images.githubusercontent.com/15912256/215358354-53468ed3-e60a-4b34-8ab6-1951264ae81c.png)
+
+
 click here to see the string : 
-###
+### [AtomicBombFactory_Container.txt](AtomicBombFactory_Container.txt)
 
 ## Solar panel, battery, laser Factory Container
 
