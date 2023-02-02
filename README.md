@@ -32,9 +32,11 @@ click here to see the string :
 ### [Genesis_Container](Genesis_Container.txt)
 
 ## coal Smelter Container
+![image](https://user-images.githubusercontent.com/15912256/216281878-263dc2fe-0f80-4bcb-bd9a-dedccce24b59.png)
+it is coal powered.
 #### Input
 
-- ore or iron
+- ore or iron plate
 - coal
 
 #### Output
@@ -43,7 +45,10 @@ click here to see the string :
 
 #### Max troughput
 
-- Not measured. feel free to do it and publish the result there
+- 7200 item/min (1200 Steel)
+
+click here to see the string : 
+### [CoalSmelter_Container.txt](CoalSmelter_Container.txt)
 
 ## electric Smelter Container
 ![image](https://user-images.githubusercontent.com/15912256/215142702-2382280c-d2ff-43ae-a36f-d157cfcdd717.png)
