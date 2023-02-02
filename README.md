@@ -31,6 +31,15 @@ the troughput is quite low (just under 50 red and 50 green / minutes) and you sh
 click here to see the string : 
 ### [Genesis_Container](Genesis_Container.txt)
 
+## Genesis Container Step 2
+this is an upgrade for the first genesis container. it should allow you to unlock all the research for others module (green + red)
+and make little of blue science and cliff explosive
+
+![image](https://user-images.githubusercontent.com/15912256/216284212-9828dc2d-7c88-41c8-b193-9f4014ada4eb.png)
+
+click here to see the string : 
+### [GenesisStep2_Container](GenesisStep2_Container.txt)
+
 ## coal Smelter Container
 ![image](https://user-images.githubusercontent.com/15912256/216281878-263dc2fe-0f80-4bcb-bd9a-dedccce24b59.png)
 it is coal powered.
