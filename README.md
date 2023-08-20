@@ -10,7 +10,8 @@ a list of factorio blueprint for a scalable factory on the cityblock model. I pe
 - automatic load balancing. Train will only go to station that are full/empty (more under the train blueprint)
 - each container has its own line of defense.
 - train with one loco and two wagon
-
+- limited requirement in hardware (mostly no high tier part, green, red blue science are enough)
+  
 # Disclamer and acknoledgements
 part of thoses design are a patch work of otherdesign who are not by me.
 saddly thoses blueprint have been in my game for so long i cant even remeber where i took them but hey if you recognise part of your work, add yourself here.
@@ -18,6 +19,15 @@ saddly thoses blueprint have been in my game for so long i cant even remeber whe
 # Contributing
 if you feel like you improved the design and want to share it with the others, feel free to open a pull request.
 if your change are not compatible with the rest of the module, make a fork instead and I will happily list it here
+
+# Contributing
+TODO :
+
+- solar pannel and accumulator factory
+- allow split train (one wagon with X and the other with Y) (refactor logic in train stop)
+- laser turret factory
+- wall factory
+- improve genesis module
 
 # Blueprint
 
