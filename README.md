@@ -20,8 +20,7 @@ saddly thoses blueprint have been in my game for so long i cant even remeber whe
 if you feel like you improved the design and want to share it with the others, feel free to open a pull request.
 if your change are not compatible with the rest of the module, make a fork instead and I will happily list it here
 
-# Contributing
-TODO :
+# TODO
 
 - solar pannel and accumulator factory
 - allow split train (one wagon with X and the other with Y) (refactor logic in train stop)
