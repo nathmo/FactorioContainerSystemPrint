@@ -1,4 +1,4 @@
-# FactorioContainerSystemPrint
+![image](https://github.com/nathmo/FactorioContainerSystemPrint/assets/15912256/265bb0e1-bce1-4231-ac36-c326b25f8a46)# FactorioContainerSystemPrint
 a list of factorio blueprint for a scalable factory on the cityblock model. I personnally refer to thoses module as container like in docker. the goal is to provide a set of module blueprint so thats its easy to start quickly and expand the factory.
 
 # Features
@@ -117,7 +117,7 @@ click here to see the string :
 ### [GreenCircuitFactory.txt](GreenCircuitFactory.txt)
 
 ## Red Circuit Container
-![image](https://user-images.githubusercontent.com/15912256/215359742-1b68ed17-f9cd-45b5-9e3d-33fd2d7def2d.png)
+![image](https://github.com/nathmo/FactorioContainerSystemPrint/assets/15912256/d4223eb5-9592-40e6-8c81-fcde4df4be1f)
 
 #### Input
 
