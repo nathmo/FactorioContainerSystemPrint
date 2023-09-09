@@ -1,5 +1,22 @@
+
 # FactorioContainerSystemPrint
 a list of factorio blueprint for a scalable factory on the cityblock model. I personnally refer to thoses module as container like in docker. the goal is to provide a set of module blueprint so thats its easy to start quickly and expand the factory.
+
+this readme dont contains the latest blueprint description but they are included in the book.
+among them : 
+
+- the mall (produce nearly everything, notable exception for belt and arm who are produced in the red green science module)
+- solar pannel + battery + laser factory
+- concrete factory
+- artilerry outpost
+- new version for the refinery
+- red + green science
+- blue science
+- black science (military)
+- yellow science
+- violet science
+- labs module
+
 
 # Features
 
