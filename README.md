@@ -24,7 +24,14 @@ if your change are not compatible with the rest of the module, make a fork inste
 
 - improve genesis module
 
+
+# Book
+This book contains every blueprint for faster import :
+
+
 # Blueprint
+click here to see the string : 
+### [Book](Book.txt)
 
 ## Genesis Container
 this is the first one you should build. 
