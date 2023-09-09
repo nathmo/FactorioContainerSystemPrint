@@ -1,4 +1,4 @@
-![image](https://github.com/nathmo/FactorioContainerSystemPrint/assets/15912256/265bb0e1-bce1-4231-ac36-c326b25f8a46)# FactorioContainerSystemPrint
+# FactorioContainerSystemPrint
 a list of factorio blueprint for a scalable factory on the cityblock model. I personnally refer to thoses module as container like in docker. the goal is to provide a set of module blueprint so thats its easy to start quickly and expand the factory.
 
 # Features
@@ -10,7 +10,7 @@ a list of factorio blueprint for a scalable factory on the cityblock model. I pe
 - automatic load balancing. Train will only go to station that are full/empty (more under the train blueprint)
 - each container has its own line of defense.
 - train with one loco and two wagon
-- limited requirement in hardware (mostly no high tier part, green, red blue science are enough)
+- limited requirement in hardware (mostly no high tier part, green, red and blue science are enough)
   
 # Disclamer and acknoledgements
 part of thoses design are a patch work of otherdesign who are not by me.
@@ -22,10 +22,6 @@ if your change are not compatible with the rest of the module, make a fork inste
 
 # TODO
 
-- solar pannel and accumulator factory
-- allow split train (one wagon with X and the other with Y) (refactor logic in train stop)
-- laser turret factory
-- wall factory
 - improve genesis module
 
 # Blueprint
@@ -35,6 +31,8 @@ this is the first one you should build.
 the core component are low tech and you can start building it right away. at first you might want to use 4 lane to import the iron and copper ore, the coal and the rocks. later one you might want to use the train.
 the container will produce all the item you minght need in the beginning (electric miner, belt, robot arm, wall, landfill, energy, ammo and it have a basic red and green science setup.
 the troughput is quite low (just under 50 red and 50 green / minutes) and you should upgrade whenever you researched all the bacic green and red science.
+if you aldready have a base you can bypass these and just build the mall
+
 ![image](https://user-images.githubusercontent.com/15912256/215102312-358356f1-9c61-4af2-9399-d52f0ca335c2.png)
 
 click here to see the string : 
